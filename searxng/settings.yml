@@ -12,7 +12,7 @@ redis:
   url: redis://redis:6379/0
 general:
   debug: false
-  instance_name:  "I Can Find It Online"
+  instance_name:  "Mega-Care"
   privacypolicy_url: false
   donation_url: /info/en/donate
   contact_url: https://www.robertattfield.com
